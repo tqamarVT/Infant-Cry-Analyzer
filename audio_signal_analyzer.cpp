@@ -2,7 +2,6 @@
 /* 32 ms, 256 samples*/
 /******************************************************************
 TAIMOOR QAMAR AND ADAM SCHILLING SENIOR DESIGN PROJECT
-
 ******************************************************************/
 /******************
 OUTPUT AND BINARY CORRESPONDENCE:
